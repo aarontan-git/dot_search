@@ -8,4 +8,4 @@
 - need to have a square image
 - need to have a square dot graph
 - each dot node represent a certain square pixel patch on the image
-- can be used in path planning purpose
+- can be used for path planning purposes
